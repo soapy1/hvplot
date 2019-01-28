@@ -4,6 +4,8 @@ environment:
   matrix:
     - PY: "2.7"
       CONDA: "C:\\Miniconda-x64"
+    - PY: "3.7"
+      CONDA: "C:\\Miniconda-x64"
 
 matrix:
   allow_failures:
